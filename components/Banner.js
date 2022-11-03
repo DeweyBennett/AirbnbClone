@@ -13,7 +13,7 @@ export default function Banner() {
             />
             <div className="absolute top-1/2 w-full text-center">
                 <p className="text-sm sm:text-lg">Welcome to my Airbnb clone!</p>
-                <p className="text-sm sm:text-lg">Let's help book your trip to London. Type in London in the search bar above and let&lsquo;s get started.</p>
+                <p className="text-sm sm:text-lg">Let&lsquo;s help book your trip to London. Type in London in the search bar above and let&lsquo;s get started.</p>
                 <p className="text-sm sm:text-lg">More cities coming soon.</p>
                 <button
                     className="text-purple-500 bg-white px-10 py-4 shadow-md rounded-full font-bold my-3 hover:shadow-xl active:scale-90 transition duration-150"
